@@ -1,4 +1,4 @@
-# Exno.6-Prompt-Engg
+# EXP 6: Development of Python Code Compatible with Multiple AI Tools
 ### Date: 07/04/2025
 ### Register no: 212222040015
 ## Aim: 
